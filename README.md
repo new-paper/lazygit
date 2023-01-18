@@ -28,13 +28,13 @@
 1. Copy `gui` section from [light](https://github.com/new-paper/lazygit/blob/main/themes/newpaper_light.yml) or [dark](https://github.com/new-paper/lazygit/blob/main/themes/newpaper_dark.yml) and replace in lazygit [config](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md#user-config).
 2. Reopen lazygit for apply settings.
 
-### Advanced configuration
+### ⚙️ Advanced configuration
 
 See more for lazygit [Configuration](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md).
 
-### Neovim
+#### Neovim
 
-Use [lazigit](https://github.com/kdheepak/lazygit.nvim) plugin in [Neovim](https://github.com/neovim/neovim) with [newpaper](https://github.com/yorik1984/newpaper.nvim) colorscheme.
+Use [lazygit](https://github.com/kdheepak/lazygit.nvim) plugin in [Neovim](https://github.com/neovim/neovim) with [newpaper](https://github.com/yorik1984/newpaper.nvim) colorscheme.
 
 <div align="center">
 
